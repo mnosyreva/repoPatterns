@@ -1,0 +1,7 @@
+C:\Users\kulni\source\repos\Homework2_Builder\Homework2_Builder\bin\Debug\Homework2_Builder.exe.config
+C:\Users\kulni\source\repos\Homework2_Builder\Homework2_Builder\bin\Debug\Homework2_Builder.exe
+C:\Users\kulni\source\repos\Homework2_Builder\Homework2_Builder\bin\Debug\Homework2_Builder.pdb
+C:\Users\kulni\source\repos\Homework2_Builder\Homework2_Builder\obj\Debug\Homework2_Builder.csprojAssemblyReference.cache
+C:\Users\kulni\source\repos\Homework2_Builder\Homework2_Builder\obj\Debug\Homework2_Builder.csproj.CoreCompileInputs.cache
+C:\Users\kulni\source\repos\Homework2_Builder\Homework2_Builder\obj\Debug\Homework2_Builder.exe
+C:\Users\kulni\source\repos\Homework2_Builder\Homework2_Builder\obj\Debug\Homework2_Builder.pdb

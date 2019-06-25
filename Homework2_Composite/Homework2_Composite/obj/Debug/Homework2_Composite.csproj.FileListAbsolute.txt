@@ -1,0 +1,7 @@
+C:\Users\kulni\source\repos\Homework2_Composite\Homework2_Composite\bin\Debug\Homework2_Composite.exe.config
+C:\Users\kulni\source\repos\Homework2_Composite\Homework2_Composite\bin\Debug\Homework2_Composite.exe
+C:\Users\kulni\source\repos\Homework2_Composite\Homework2_Composite\bin\Debug\Homework2_Composite.pdb
+C:\Users\kulni\source\repos\Homework2_Composite\Homework2_Composite\obj\Debug\Homework2_Composite.csprojAssemblyReference.cache
+C:\Users\kulni\source\repos\Homework2_Composite\Homework2_Composite\obj\Debug\Homework2_Composite.csproj.CoreCompileInputs.cache
+C:\Users\kulni\source\repos\Homework2_Composite\Homework2_Composite\obj\Debug\Homework2_Composite.exe
+C:\Users\kulni\source\repos\Homework2_Composite\Homework2_Composite\obj\Debug\Homework2_Composite.pdb
